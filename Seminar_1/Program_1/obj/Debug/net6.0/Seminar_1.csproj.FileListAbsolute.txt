@@ -1,0 +1,15 @@
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\bin\Debug\net6.0\Seminar_1.exe
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\bin\Debug\net6.0\Seminar_1.deps.json
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\bin\Debug\net6.0\Seminar_1.runtimeconfig.json
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\bin\Debug\net6.0\Seminar_1.dll
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\bin\Debug\net6.0\Seminar_1.pdb
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\obj\Debug\net6.0\Seminar_1.csproj.AssemblyReference.cache
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\obj\Debug\net6.0\Seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\obj\Debug\net6.0\Seminar_1.AssemblyInfoInputs.cache
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\obj\Debug\net6.0\Seminar_1.AssemblyInfo.cs
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\obj\Debug\net6.0\Seminar_1.csproj.CoreCompileInputs.cache
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\obj\Debug\net6.0\Seminar_1.dll
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\obj\Debug\net6.0\refint\Seminar_1.dll
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\obj\Debug\net6.0\Seminar_1.pdb
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\obj\Debug\net6.0\Seminar_1.genruntimeconfig.cache
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\obj\Debug\net6.0\ref\Seminar_1.dll

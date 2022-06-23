@@ -1,0 +1,15 @@
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\bin\Debug\net6.0\Program_4.exe
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\bin\Debug\net6.0\Program_4.deps.json
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\bin\Debug\net6.0\Program_4.runtimeconfig.json
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\bin\Debug\net6.0\Program_4.dll
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\bin\Debug\net6.0\Program_4.pdb
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\obj\Debug\net6.0\Program_4.csproj.AssemblyReference.cache
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\obj\Debug\net6.0\Program_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\obj\Debug\net6.0\Program_4.AssemblyInfoInputs.cache
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\obj\Debug\net6.0\Program_4.AssemblyInfo.cs
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\obj\Debug\net6.0\Program_4.csproj.CoreCompileInputs.cache
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\obj\Debug\net6.0\Program_4.dll
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\obj\Debug\net6.0\refint\Program_4.dll
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\obj\Debug\net6.0\Program_4.pdb
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\obj\Debug\net6.0\Program_4.genruntimeconfig.cache
+D:\YandexDisk\2_home\Learn_Programming\GeekBrains\Labs\Labs_GB\C_sharp\Seminars\Seminar_1\Program_4\obj\Debug\net6.0\ref\Program_4.dll
